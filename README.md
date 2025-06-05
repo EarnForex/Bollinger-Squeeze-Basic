@@ -6,6 +6,6 @@ The presented version of Bollinger Squeeze Basic provides an option for alerts o
 
 ![Bollinger Squeeze Basic indicator helps to spot some trend-based entries on the EUR/USD chart](https://github.com/EarnForex/Bollinger-Squeeze-Basic/blob/main/README_Images/bollinger-squeeze-basic-shows-strong-downtrend-eurusd.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Bollinger-Squeeze-Basic/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Bollinger-Squeeze-Basic/
 
 Any contributions to the code are welcome!
